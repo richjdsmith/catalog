@@ -1,6 +1,7 @@
 name: Web Analytics
 description: Track and analyse web requests
 projects:
+  - active_analytics
   - callcounter
   - ga_events
   - gabba
@@ -18,3 +19,4 @@ projects:
   - rugalytics
   - wwwtf
   - yaga
+  
